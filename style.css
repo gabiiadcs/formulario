@@ -32,18 +32,18 @@ fieldset {
     padding: 1.5rem;
     margin-bottom: 2rem;
     border-radius: 1rem;
-
-    input {
+    
+    input{
         display: block;
         margin-top: .6rem;
         padding: .7rem;
         border-radius: 1rem;
         border: none;
-        color: #fff;
+        color: #000000;
     }
 
     input:focus {
-        outline:2px solid oklch(37.982% 0.06324 168.374);
+        outline:2px solid oklch(62.977% 0.10494 198.146);
 
     }
 
@@ -53,7 +53,7 @@ fieldset {
     }
 
     input[type=file]{
-        color:#fff;
+        color:#ffffff00;
     }
 
     input[type=checkbox],
