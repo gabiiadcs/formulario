@@ -57,7 +57,7 @@ fieldset {
     }
 
     input[type=checkbox],
-    input[type=raip]{
+    input[type=radio]{
         display: inline-block;
         outline: none;
     }
